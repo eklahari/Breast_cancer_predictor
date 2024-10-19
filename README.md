@@ -65,7 +65,7 @@ The data is prepossessed and scaled. I have trained with Random forest Classifie
 <p>Home Page</p>
 </div>
 
-![Home Page 1](static/images/homepage1.png)
+![Home Page 1](homepage1.png)
 
 ***** 
 
@@ -73,20 +73,20 @@ The data is prepossessed and scaled. I have trained with Random forest Classifie
 <p>Tumor Data form</p>
 </div>
 
-![Home Page 2](static/images/HomePage2.png)
+![Home Page 2](HomePage2.png)
 
 *****
 <div align="center">
 <p>Tumor Data form</p>
 </div>
 
-![Home Page 3](static/images/homepage3.png)
+![Home Page 3](homepage3.png)
 
 ***
 <div align="center">
 <p>Prediction Output</p>
 </div>
 
-![Prediction Page](static/images/predict.png)
+![Prediction Page](predict.png)
 
 
